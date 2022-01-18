@@ -1,0 +1,28 @@
+{
+  "name": "sqlclid-mysql",
+  "version": "1.0.0",
+  "description": "A MySQL driver for the sqlcli package.",
+  "main": "driver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBrenny/sqlclid-mysql.git"
+  },
+  "keywords": [
+    "sql",
+    "cli",
+    "mysql",
+    "driver"
+  ],
+  "author": "TheBrenny <iam+dev@justbrenny.me>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheBrenny/sqlclid-mysql/issues"
+  },
+  "homepage": "https://github.com/TheBrenny/sqlclid-mysql#readme",
+  "dependencies": {
+    "mysql2": "^2.3.3"
+  }
+}
